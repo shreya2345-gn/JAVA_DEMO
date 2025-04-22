@@ -1,6 +1,8 @@
 package DEMO1;
 
 public class Demo {
-    System.out.println("main");
-
+    public static void main(String [] args)
+    {
+        System.out.println("main");
+    }
 }
